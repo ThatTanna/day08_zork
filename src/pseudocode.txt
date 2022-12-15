@@ -1,0 +1,19 @@
+Text adventure game
+    Display player location | look
+    User input to travel map | left, right, up, down
+
+Class location
+    name, description, direction.
+
+Read file.
+    FileReader.
+    Find keywords.
+
+Prompt user for command. While loop. Break with exit
+    Switch case
+    up
+    down
+    left
+    right
+    exit
+
